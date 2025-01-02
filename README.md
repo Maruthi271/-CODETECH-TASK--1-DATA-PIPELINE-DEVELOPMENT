@@ -14,6 +14,8 @@
 
 # ENTER DESCRIPTION OF TASK PERFORMED NOTLESS THAN 500 WORDS
 
+# OUTPUT OF THE TASK - ONE
+
 https://github.com/Maruthi271/-CODETECH-TASK--1-DATA-PIPELINE-DEVELOPMENT/blob/main/task%20one%20op1.png
 
 https://github.com/Maruthi271/-CODETECH-TASK--1-DATA-PIPELINE-DEVELOPMENT/blob/main/task%20one%20op2.png
